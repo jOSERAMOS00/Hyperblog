@@ -1,5 +1,16 @@
 body{
     text-align: center;
-    color: blue;
     font-family: 'Times New Roman', Times, serif;
 }
+#conteiner{
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid silver;
+}
+#post{
+    text-align: center;
+    width: 100%;
+    padding: 1rem;
+
+}
+
